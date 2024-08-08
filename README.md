@@ -17,8 +17,6 @@ The representation and management of taxonomic information present various chall
 
 <br>
 
-Problems in Biological Taxonomy:
-
 1. Variant Citations of the Same Taxon Name
    - Different ways to cite the same species or taxon name create inconsistencies.
    - Solution: Develop and adopt standardized formats for citing taxon names to ensure consistency across databases.

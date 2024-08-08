@@ -96,6 +96,10 @@ The representation and management of taxonomic information present various chall
 20. Individual Taxonomists and Research Institutions
     - Taxonomists and research institutions contribute to the global taxonomic framework, often publishing their work in scientific journals.
     - Help Required: Support in digitizing and integrating published work into global databases and development of better data sharing tools.
+   
+#
+
+> Alex: "*I want to try and solve these and other scientific challenges utilizing my highly organized methods of development.*"
 
 #
 ### Related Links

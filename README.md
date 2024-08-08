@@ -15,8 +15,9 @@ Beyond its importance in biological research, taxonomy also has practical applic
 
 The representation and management of taxonomic information present various challenges due to the dynamic nature of biological classification and the decentralized manner in which taxonomic data is managed. These challenges can lead to inconsistencies, data integrity issues, and difficulties in integrating and analyzing taxonomic information across different systems. Below are some common problems encountered in representing taxonomic information, along with potential solutions using AI, Python, and other software tools.
 
-#
-### Problems in Biological Taxonomy
+<br>
+
+Problems in Biological Taxonomy:
 
 1. Variant Citations of the Same Taxon Name
    - Different ways to cite the same species or taxon name create inconsistencies.

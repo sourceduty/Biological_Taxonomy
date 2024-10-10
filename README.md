@@ -275,10 +275,6 @@ Finally, ongoing monitoring and support are essential to ensure the effectivenes
 </details>
 
 #
-
-> Alex: "*I want to try and solve these and other scientific challenges utilizing my highly organized methods of development.*"
-
-#
 ### Related Links
 
 [Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
@@ -288,6 +284,8 @@ Finally, ongoing monitoring and support are essential to ensure the effectivenes
 [Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
 <br>
 [Quantum Biology Simulator](https://github.com/sourceduty/Quantum_Biology_Simulator)
+<br>
+[Computational Taxonomy](https://chatgpt.com/g/g-aiEbyrQYF-computational-taxonomy)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
